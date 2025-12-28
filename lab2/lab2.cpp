@@ -60,4 +60,5 @@ int main() {
     --s2;
     std::cout << "Декодированная: " << s2 << std::endl;
     return 0;
+
 }
